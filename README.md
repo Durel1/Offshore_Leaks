@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Offshore Leaks Analysis : Data Science & Théorie des Graphes
+# Offshore Leaks Analysis : Data Science & Théorie des Graphes
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458)
